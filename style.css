@@ -1,0 +1,165 @@
+body {
+	background-color:mintcream;
+	overflow: auto;
+}
+
+h1 {border: 1px solid #0F7C83;
+	text-align: center;
+	font-size: 5vw;
+}
+
+.div1 {display: inline-block;
+	width: 40vw;
+	border: 1px solid #0F7C83;
+	padding: 10px;
+	text-align: justify;
+}
+
+#left-column {display: inline-block;
+	width: 20vw;
+	border: 2px solid #0F7C83;
+	padding: 10px;
+	text-align: justify;
+	vertical-align: top;
+}
+.abtme {display:inline-block;
+	width: 40vw;
+	border: 2px solid #0F7C83;
+	padding: 10px;
+	text-align: justify;
+}
+
+#bigscroll {overflow: auto;
+
+}
+
+p.class5 {display:  inline-block;
+	width: 200px;
+	height: 100px;
+	vertical-align: bottom;
+	border: 1px solid #0F7C83;
+	padding: 10px;
+	margin-bottom: 0px;
+	margin-top: -1px;
+	margin-right: -5px;
+	margin-left: 0px;
+	overflow: auto;
+}
+
+p.class6 {display: inline-block;
+	width: 200px;
+	height: 100px;
+	vertical-align: bottom;
+	border: 1px solid #0F7C83;
+	padding: 10px;
+	margin-bottom: 0px;
+	margin-top: -1px;
+	margin-right: -5px;
+	margin-left: 0px;
+	overflow: auto;
+}
+	
+p.class7 {display: inline-block;
+	width: 200px;
+	height: 100px;
+	vertical-align: bottom;
+	border: 1px solid #0F7C83;
+	padding: 10px;
+	margin-bottom: 0px;
+	margin-top: -1px;
+	margin-right: -5px;
+	margin-left: 0px;
+	overflow: auto;
+}
+
+p.class8 {display: inline-block;
+	width: 200px;
+	height: 100px;
+	vertical-align: bottom;
+	border: 1px solid #0F7C83;
+	padding: 10px;
+	margin-bottom: 0px;
+	margin-top: -1px;
+	margin-right: -5px;
+	margin-left: 0px;
+	overflow: auto;
+}
+
+p.class9 {display: inline-block;
+	width: 200px;
+	height: 100px;
+	vertical-align: bottom;
+	border: 1px solid #0F7C83;
+	padding: 10px;
+	margin-bottom: 0px;
+	margin-top: -1px;
+	margin-right: -5px;
+	margin-left: 0px;
+	overflow: auto;
+}
+
+p.class10 {display: inline-block;
+	width: 200px;
+	height: 100px;
+	vertical-align: bottom;
+	border: 1px solid #0F7C83;
+	padding: 10px;
+	margin-bottom: 0px;
+	margin-top: -1px;
+	margin-right: -5px;
+	margin-left: 0px;
+	overflow: auto;
+}
+
+.DreamV {display: inline-block;
+	width: 30vw;
+	border: 1px solid #0F7C83;
+	padding: 20px;
+	text-align: justify;
+	vertical-align: top;
+	margin-top: -1px;
+}
+
+img {border: 2px solid #0F7C83;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
