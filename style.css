@@ -33,7 +33,7 @@ h1 {border: 1px solid #0F7C83;
 
 }
 
-p.class5 {display:  inline-block;
+.class5 {display:  inline-block;
 	width: 200px;
 	height: 100px;
 	vertical-align: bottom;
@@ -46,7 +46,7 @@ p.class5 {display:  inline-block;
 	overflow: auto;
 }
 
-p.class6 {display: inline-block;
+.class6 {display: inline-block;
 	width: 200px;
 	height: 100px;
 	vertical-align: bottom;
@@ -59,7 +59,7 @@ p.class6 {display: inline-block;
 	overflow: auto;
 }
 	
-p.class7 {display: inline-block;
+.class7 {display: inline-block;
 	width: 200px;
 	height: 100px;
 	vertical-align: bottom;
@@ -72,7 +72,7 @@ p.class7 {display: inline-block;
 	overflow: auto;
 }
 
-p.class8 {display: inline-block;
+.class8 {display: inline-block;
 	width: 200px;
 	height: 100px;
 	vertical-align: bottom;
@@ -85,7 +85,7 @@ p.class8 {display: inline-block;
 	overflow: auto;
 }
 
-p.class9 {display: inline-block;
+.class9 {display: inline-block;
 	width: 200px;
 	height: 100px;
 	vertical-align: bottom;
@@ -98,7 +98,7 @@ p.class9 {display: inline-block;
 	overflow: auto;
 }
 
-p.class10 {display: inline-block;
+.class10 {display: inline-block;
 	width: 200px;
 	height: 100px;
 	vertical-align: bottom;
@@ -126,21 +126,41 @@ img {border: 2px solid #0F7C83;
 }
 
 
+#minus, #plus, #total {
+	display: inline-block
+}
 
+#multiply, #divide, #mathtotal {
+	display: inline-block
+}
 
+#divide2, #multiply2, #divisiontotal {
+	display: inline-block
+}
 
+#minus3, #plus3, #minustotal {
+	display: inline-block
+}
 
+#plus100, #plustotal, #minus100 {
+	display: inline-block
+}
 
+#buttons, #image {
+	display: inline-block;
+}
 
+.button {
+	display: block;
+}
 
+.madl {
+	display: inline-block;
+}
 
-
-
-
-
-
-
-
+#subbutton {
+	display: block;
+}
 
 
 

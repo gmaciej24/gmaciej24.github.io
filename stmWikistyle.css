@@ -1,0 +1,40 @@
+.grey {
+	background-color: #EFEFEF;
+}
+.blue {
+	color: #1A2693;
+}
+
+#size1{
+	font-size: 14px;
+}
+
+#size2, #size3, #size5, #size6, #size7, #size10, #size12{
+	font-size: 23px;
+}
+
+#size8, #size9 {
+	font-size: 19px;
+}
+
+
+.inline, .inl2{
+	display: inline-block;
+	padding: 5px;
+	font-size: 13px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
